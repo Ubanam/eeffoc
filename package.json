@@ -1,7 +1,7 @@
 {
-  "name": "node-js-getting-started",
+  "name": "eeffoc",
   "version": "0.1.3",
-  "description": "Meigenizms",
+  "description": "eeffoc",
   "main": "app.js",
   "scripts": {
     "start": "node app"
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://git.heroku.com/meigenizm666.git"
+    "url": "https://git.heroku.com/eeffoc.git"
   },
   "keywords": [
     "node",
